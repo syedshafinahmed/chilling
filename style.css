@@ -1,0 +1,11 @@
+.boy{
+    /* position: absolute; */
+}
+.ring{
+    position: relative;
+    top: -40%;
+    z-index: 1;
+}
+.water{
+    position: relative;
+}
