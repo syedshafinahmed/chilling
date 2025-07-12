@@ -1,11 +1,17 @@
+.nil{
+    margin: 0px 300px 0px 300px;
+    padding: 250px 300px 0px 300px;
+}
+.chillin{
+    position: relative;
+}
 .boy{
-    /* position: absolute; */
+    z-index: 2;
 }
 .ring{
-    position: relative;
-    top: -40%;
+    top: -70px;
     z-index: 1;
 }
 .water{
-    position: relative;
+    top: -150px;
 }
